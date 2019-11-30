@@ -1,0 +1,152 @@
+[
+    {
+      "word": "dog",
+      "pos": "noun",
+      "definition": "a highly variable domestic mammal closely related to the gray wolf",
+      "french": "chien"
+    },
+    {
+      "word": "balloon",
+      "pos": "noun",
+      "definition": "a nonporous bag of light material that can be inflated especially with air or gas",
+      "french": "ballon"
+    },
+    {
+      "word": "happy",
+      "pos": "adjective",
+      "definition": "enjoying or characterized by well-being and contentment",
+      "french": "heureux"
+    },
+    {
+      "word": "run",
+      "pos": "verb",
+      "definition": "to go faster than a walk",
+      "french": "courir"
+    },
+    {
+      "word": "software",
+      "pos": "noun",
+      "definition": "programs for a computer",
+      "french": "logiciel"
+    },
+    {
+      "word": "swim",
+      "pos": "verb",
+      "definition": "to propel oneself in water by natural means (such as movements of the limbs, fins, or tail)",
+      "french": "nager"
+    },
+    {
+      "word": "ant",
+      "pos": "noun",
+      "definition": "any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties",
+      "french": "fourmi"
+    },
+    {
+      "word": "green",
+      "pos": "adjective",
+      "definition": "of the color green",
+      "french": "vert"
+    },
+    {
+      "word": "badly",
+      "pos": "adverb",
+      "definition": "in a bad manner",
+      "french": "mal"
+    },
+    {
+      "word": "stoic",
+      "pos": "adjective",
+      "definition": "not affected by or showing passion or feeling",
+      "french": "stoique"
+    },
+    {
+      "word": "bird",
+      "pos": "noun",
+      "definition": "any of a class (Aves) of warm-blooded vertebrates distinguished by having the body more or less completely covered with feathers and the forelimbs modified as wings",
+      "french": "oiseau"
+    },
+    {
+      "word": "grave",
+      "pos": "noun",
+      "definition": "an excavation for burial of a body",
+      "french": "tombe"
+    },
+    {
+      "word": "student",
+      "pos": "noun",
+      "definition": "one who attends a school",
+      "french": "edudiant"
+    },
+    {
+      "word": "plant",
+      "pos": "verb",
+      "definition": "to put or set in the ground for growth",
+      "french": "planter"
+    },
+    {
+      "word": "bridge",
+      "pos": "noun",
+      "definition": "a structure carrying a pathway or roadway over a depression or obstacle (such as a river)",
+      "french": "pont"
+    },
+    {
+      "word": "doctor",
+      "pos": "noun",
+      "definition": "a person skilled or specializing in healing arts",
+      "french": "medecin"
+    },
+    {
+      "word": "cry",
+      "pos": "verb",
+      "definition": "to shed tears often noisily",
+      "french": "pleurer"
+    },
+    {
+      "word": "humble",
+      "pos": "adjective",
+      "definition": "not proud or haughty : not arrogant or assertive",
+      "french": "humble"
+    },
+    {
+      "word": "better",
+      "pos": "adverb",
+      "definition": "to a higher or greater degree",
+      "french": "mieux"
+    },
+    {
+      "word": "delight",
+      "pos": "verb",
+      "definition": "to give keen enjoyment",
+      "french": "ravir"
+    },
+    {
+      "word": "space",
+      "pos": "noun",
+      "definition": "the region beyond the earth's atmosphere or beyond the solar system",
+      "french": "espace"
+    },
+    {
+      "word": "bamboozle",
+      "pos": "verb",
+      "definition": "to deceive by underhanded methods",
+      "french": "embobiner"
+    },
+    {
+      "word": "wonk",
+      "pos": "noun",
+      "definition": "a person preoccupied with arcane details or procedures in a specialized field",
+      "french": "bosseur"
+    },
+    {
+      "word": "star",
+      "pos": "noun",
+      "definition": "a natural luminous body visible in the sky especially at night",
+      "french": "etoile"
+    },
+    {
+      "word": "car",
+      "pos": "noun",
+      "definition": "a vehicle moving on wheels",
+      "french": "voiture"
+    }
+ ]
